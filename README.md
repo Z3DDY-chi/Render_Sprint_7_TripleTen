@@ -27,6 +27,12 @@ Todas las visualizaciones fueron creadas utilizando **Plotly Express**, lo que p
 
 ---
 
+## Render
+
+https://render-sprint-7-tripleten.onrender.com
+
+---
+
 ## Ejecución de la aplicación
 
 Para ejecutar la aplicación de forma local, asegúrate de estar en la raíz del proyecto y ejecuta el siguiente comando en la terminal:
